@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/c486b32d-ad55-4eea-8763-eabc99e6a2ad)# FH Administración 🏢
-
 **Administración para Proyectos Inmobiliarios**  
 Certificados por HAWK EYE ✅
 
